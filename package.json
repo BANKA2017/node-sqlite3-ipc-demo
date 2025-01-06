@@ -1,0 +1,11 @@
+{
+  "name": "node-sqlite3-ipc-demo",
+  "type": "module",
+  "private": true,
+  "packageManager": "yarn@4.6.0",
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "consola": "^3.3.3",
+    "sqlite3": "^5.1.7"
+  }
+}
