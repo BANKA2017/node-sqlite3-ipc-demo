@@ -79,10 +79,10 @@ console.log(await DBClient.query("sss", [], "all"));
 
 Ummm I don't know.
 
-### Will it support the xxx feature?
+### Will it support the xxx (feature)?
 
-No, this is a piece of code that was once used for a Twitter Monitor, but it has now been deprecated.
+No, this was a part of Twitter Monitor, but it has now been deprecated.
 
-### How does the performance compare to xxx?
+### What about the performance?
 
-It’s very bad. If possible, please do not use it directly, and definitely do not incorporate it into your product.
+Bad.
